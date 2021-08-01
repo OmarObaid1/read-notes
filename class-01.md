@@ -139,3 +139,6 @@ JavaScript is a programming language commonly used in web development. ... This 
 
 ## what's the diffrent between them?
 ![types](https://brytdesigns.com/wp-content/uploads/2019/12/html_css_javascript_infographic.png)
+
+for more details please join the link?
+[java script](https://alqudscollege.sharepoint.com/:b:/s/ASACStudents2-CodeFellows/EfdxN0Jb8uRJtjYNjfWVsZYBbnCOd_EOjT55ev5ZsPxuxw?e=E6syEi)
