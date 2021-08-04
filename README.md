@@ -10,3 +10,5 @@ name file | file link
  class-02 |    [Basics of HTML, CSS & JS](https://omarobaid1.github.io/read-notes201/class-02)
  class-04 |    [HTML Links, CSS Layout, JS Function](https://omarobaid1.github.io/read-notes201/class-04)
  class-03 |    [HTML Lists, Control Flow with JS, and the CSS Box Model](https://omarobaid1.github.io/read-notes201/class-3)
+ class-05 |    [Images, Color, Text]()
+ 
