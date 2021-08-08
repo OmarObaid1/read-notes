@@ -105,6 +105,7 @@ The footer belongs inside the
 
 
 for more details please join the link 
+
 [table](https://wtf.tw/ref/duckett.pdf)
 
 
