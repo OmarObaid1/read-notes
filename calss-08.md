@@ -16,7 +16,7 @@ An html element will be positioned with respect to its parent. Positioning of th
 
 -------------------------------
 
-# Fixed:-
+# Fixed:
 Any HTML element property will be positioned relative to the viewport. An element with fixed positioning allows it to remain at the same position even we scroll the page. We can set the position of the element using the top, right, bottom, left
 
 
