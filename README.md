@@ -17,4 +17,4 @@ name file | file link
  class-09 |    [Forms and Events](https://omarobaid1.github.io/read-notes201/class-09) 
  class-10 |    [error handling and debugging](https://omarobaid1.github.io/read-notes201/class-10)
  class-11 |    [Assorted Topics](https://omarobaid1.github.io/read-notes201/class-11)
- class-12 |    [ Chart.js, Canvas]()
+ class-12 |    [ Chart.js, Canvas](https://omarobaid1.github.io/read-notes201/class-12)
