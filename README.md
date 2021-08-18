@@ -19,3 +19,4 @@ name file | file link
  class-11 |    [Assorted Topics](https://omarobaid1.github.io/read-notes201/class-11)
  class-12 |    [ Chart.js, Canvas](https://omarobaid1.github.io/read-notes201/class-12)
  class-13 |    [Local Storage](https://omarobaid1.github.io/read-notes201/class-13)
+ class-14a|    [CSS Transforms, Transitions, and Animations]()
